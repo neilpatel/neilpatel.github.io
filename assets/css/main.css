@@ -1591,8 +1591,8 @@ GitHub: neilpatel
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 300;
-		color: #666;									/* CHANGE THE HEADER'S FONT COLOR HERE */
+		font-weight: 400;
+		color: #111;									/* CHANGE THE HEADER'S FONT COLOR HERE */
 		line-height: 1.5em; 				/* CHANGE THE WEIRD HEIGHT BETWEEN THE HEADERS HERE */
 		letter-spacing: 0px;
 	}
@@ -2290,7 +2290,7 @@ GitHub: neilpatel
 		}
 
 			#main > section.dark {
-				color: #ddd;
+				color: #000;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
