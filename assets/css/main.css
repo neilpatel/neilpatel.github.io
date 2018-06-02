@@ -1623,9 +1623,12 @@ GitHub: neilpatel
 			margin-top: 0em;										/* The color of the text can be changed in the font color in the html5 file */
 			font-weight: 400;
 			position: relative;							/* Made this fixed so it appears centered on mobile device */
+			text-align: center;
+			vertical-align: top;
+			float: left;
 			bottom: .99em;
 			width: 100%;
-			animation: slidein  1.75s ease-in; 					/*	WELCOME ANIMATIONS DONE HERE!!!	*/
+			animation: slidein  1.75s ease-in; 					/*	WELCOME ANIMATIONS DONE HERE!!!	*/ 
 			
 		}
 			@keyframes slidein {
