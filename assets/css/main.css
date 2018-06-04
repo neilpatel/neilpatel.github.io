@@ -1739,7 +1739,7 @@ GitHub: neilpatel
 	}
 	hr.breakProfilePicture {			/* Horizontal Row Line between profile picture and navigation menu options */
 		border-top: solid 1px #999;
-		/* padding-top: 0.2em; */
+		padding-top: 0.2em; 
 	}
 	
 	hr.breakForIcons {
@@ -1838,7 +1838,7 @@ GitHub: neilpatel
 
 		.image.left {
 			float: left;
-			/* margin: 0 2em 2em 0; */
+			margin: 0 2em 2em 0;
 		}
 
 		.image.centered {
@@ -2172,7 +2172,7 @@ GitHub: neilpatel
 
 	#logo {
 		position: relative;
-		margin: 1.25em 1.5em 1.5em 1.5em;
+		margin: 1.75em 1.5em 1.5em 1.5em;
 		min-height: 48px;
 		cursor: default;
 	}
@@ -2686,7 +2686,7 @@ GitHub: neilpatel
 			}
 
 			#main section.cover {
-				padding: 2em 0em;
+				padding: 4em 0em;
 			}
 
 				#main section.cover header {
